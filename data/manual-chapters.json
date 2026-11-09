@@ -336,6 +336,17 @@
       "createdAt": "2026-11-09T14:34:32.642Z",
       "updatedAt": "2026-11-09T14:44:37.269Z",
       "updated_at": "2026-11-09T14:44:37.269Z"
+    },
+    {
+      "id": "manual-1794237453655",
+      "mangaId": "blue-lock",
+      "number": 368,
+      "title": "ブルーロック raw ( Blue Lock raw ) 第368話 | Jap",
+      "slug": "blue-lock-raw-jap-368",
+      "country": "JP",
+      "pages": [],
+      "createdAt": "2026-11-09T15:17:30.016Z",
+      "updatedAt": "2026-11-09T15:17:30.016Z"
     }
   ]
 }
